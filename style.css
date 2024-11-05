@@ -732,3 +732,7 @@ h2 {
 	display: block;
 }
 
+.card img{
+	width: 200px;
+	height: 250px;
+}
