@@ -139,6 +139,49 @@ function selectMenu(tipe) {
 		ringkasan.style.display = 'none'
 		video.style.display = 'none'
 	}
-
-	console.log(ringkasan);
 }
+
+
+function searchSidebar() {
+    const input = document.getElementById('search-input').value.toLowerCase();
+    const sidebarItems = document.querySelectorAll('#sidebar ul li ul li a'); // Target all sidebar links within dropdown menus
+    let matchFound = false;
+
+    sidebarItems.forEach(item => {
+        const itemText = item.textContent.toLowerCase();
+
+        // Show item if it matches search input, otherwise hide it
+        if (input && itemText.includes(input)) {
+            item.style.display = 'block';
+            matchFound = true;
+        } else {
+            item.style.display = 'none';
+        }
+    });
+
+    if (!matchFound && input) {
+        alert("No matching pages found.");
+    }
+
+    // Reset display of all items if search is cleared
+    if (!input) {
+        sidebarItems.forEach(item => item.style.display = 'block');
+    }
+}
+
+
+function loadLayout() {
+fetch('/sidebar.html')
+  .then(response => response.text())
+  .then(data => {
+    document.getElementById('sidebar').innerHTML = data;
+  });
+}
+
+let jsonData = [];  // JSON data to be fetched
+
+
+
+
+
+

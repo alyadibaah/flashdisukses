@@ -1,0 +1,6 @@
+const data = {
+    "key": "value",
+    "key-2": "value-2"
+}
+
+console.log(data);

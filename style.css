@@ -16,7 +16,6 @@ li {
 
 :root {
 	--poppins: 'Poppins', sans-serif;
-	--lato: 'Lato', sans-serif;
 
 	--light: #F9F9F9;
 	--blue: #3C91E6;
@@ -735,4 +734,31 @@ h2 {
 .card img{
 	width: 200px;
 	height: 250px;
+}
+
+#sidebar ul li ul li a {
+    display: none; /* Hide all links initially */
+}
+
+#sidebar ul li ul li a.show {
+    display: block; /* Show only matched items */
+}
+
+.suggestions-box {
+    display: none;
+    position: absolute;
+    background-color: white;
+    border: 1px solid #ddd;
+    max-height: 200px;
+    overflow-y: auto;
+    z-index: 100;
+}
+
+.suggestion-item {
+    padding: 10px;
+    cursor: pointer;
+}
+
+.suggestion-item:hover {
+    background-color: #f0f0f0;
 }
