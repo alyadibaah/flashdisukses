@@ -87,7 +87,7 @@
                 ],
                 "videoTitle": "Mark Tilbury",
                 "url": "https://www.youtube.com/embed/8x43WwlkT7I?si=0Ul1BFWbXFuHnhxh",
-                "linkVideo": ""
+                "linkVideo": "../video-yt/how-id-make-10k-a-month-if-i-had-to-start-again-480-ytshorts.savetube.me.mp4"
             },
             {
                 "judul": "This video will make you more money than anything else on the Internet",
@@ -528,32 +528,291 @@
             },
             {
                 "judul": "How to Make $10,000/Month Writing Online",
-                "ringkasan": "",
-                "rekomendasiBuku": "",
+                "ringkasan": [
+                    {
+                        "judul": "Apa Itu Menulis Online?",
+                        "isi": "Menulis online adalah cara menulis yang beda dari menulis buku yang harus diterbitkan penerbit. Di sini, kita langsung menerbitkan tulisan di platform yang sudah ramai pembaca, misalnya media sosial. Bedanya dengan cara tradisional, menulis online lebih mudah untuk dikenal dan menghasilkan uang. Kamu bisa menulis dan langsung lihat reaksi pembaca."
+                    },
+                    {
+                        "judul": "Kenapa Umpan Balik Penting?",
+                        "isi": "Menulis online memungkinkan kita mendapat tanggapan pembaca dengan cepat. Dari sini, kita tahu apakah tulisan kita disukai atau tidak. Kalau responsnya baik, kita bisa buat lebih banyak tulisan serupa. Kalau nggak disukai, kita bisa segera memperbaiki."
+                    },
+                    {
+                        "judul": "Langkah-Langkah Menulis Online:",
+                        "isi": "Cari Ide: Tulis berbagai ide di platform yang berbeda. Lihat mana yang paling cocok.\nDapatkan Umpan Balik: Minta pendapat pembaca untuk tahu ide mana yang berhasil.\nAnalisis Hasil: Perhatikan mana ide yang paling banyak mendapat tanggapan untuk meningkatkan tulisan kita.\n"
+                    },
+                    {
+                        "judul": "Cara Mendapatkan Uang dari Menulis Online:",
+                        "isi": "Iklan atau Afiliasi: Dapat penghasilan dari iklan. Cocok kalau kita punya banyak pembaca.\nKonten Berbayar (Paywall): Konten eksklusif untuk pembaca yang bersedia membayar, misalnya newsletter atau kursus.\nLayanan Menulis: Menyediakan jasa menulis untuk orang atau bisnis, misalnya menulis artikel atau naskah.\n"
+                    },
+                    {
+                        "judul": "Kesimpulan",
+                        "isi": "Video menyimpulkan bahwa menulis online adalah jalan yang efektif untuk menghasilkan uang dan membangun karir menulis. Dengan memanfaatkan platform media sosial, meminta umpan balik, dan menganalisis data, seorang penulis dapat membangun audiens setia yang bersedia membayar untuk karya mereka. Video juga merekomendasikan buku Nicholas Cole sebagai sumber informasi lebih lanjut."
+                    }
+                ],
+                "rekomendasiBuku": [
+                    {
+                        "judul": "The Art and Business of Online Writing – ",
+                        "penulis": "Nicolas Cole",
+                        "img": "/img/The Art and Business of Online Writing – Nicolas Cole.jpg"
+                    },
+                    {
+                        "judul": "Everybody Writes – ",
+                        "penulis": "Ann Handley",
+                        "img": "/img/Everbody Writes.jpg"
+                    },
+                    {
+                        "judul": "How to Write Copy That Sells – ",
+                        "penulis": "Ray Edwards",
+                        "img": "/img/How to Write Copy That Sells –.jpg"
+                    },
+                    {
+                        "judul": "Show Your Work! – ",
+                        "penulis": "Austin Kleon",
+                        "img": "/img/Show Your Work! -.jpg"
+                    },
+                    {
+                        "judul": "The Copywriter’s Handbook – ",
+                        "penulis": "Robert Bly",
+                        "img": "/img/The Copywriter’s Handbook – Robert Bly.jpg"
+                    },
+                    {
+                        "judul": "Content Rules – ",
+                        "penulis": "Ann Handley & C.C. Chapman",
+                        "img": "/img/images (10).jpg"
+                    },
+                    {
+                        "judul": "On Writing Well – ",
+                        "penulis": "William Zinsser",
+                        "img": "/img/images (11).jpg"
+                    },
+                    {
+                        "judul": "Contagious - ",
+                        "penulis": "Jonah Berger",
+                        "img": "/img/contagious.jpeg"
+                    },
+                    {
+                        "judul": "Perennial Seller – ",
+                        "penulis": "Ryan Holiday",
+                        "img": "/img/Perennial Seller – Ryan Holiday.jpeg"
+                    },
+                    {
+                        "judul": "Platform: Get Noticed in a Noisy World –",
+                        "penulis": "Michael Hyatt",
+                        "img": "/img/Platform Get Noticed in a Noisy World – Michael Hyatt.jpeg"
+                    }
+                ],
                 "videoTitle": "Ali Abdaal",
                 "url": "https://www.youtube.com/embed/gIFSSmCkFEw?si=hmy-GCRaalzeProg",
                 "linkVideo": "../video-yt/ali abdaal/How to Make $10,000-Month Writing Online.mp4"
             },
             {
                 "judul": "5 High Income Skills for Students to Learn in 2024",
-                "ringkasan": "",
-                "rekomendasiBuku": "",
+                "ringkasan": [
+                    {
+                        "judul": "Apa Itu Menulis Online?",
+                        "isi": "Menulis online adalah cara menulis yang beda dari menulis buku yang harus diterbitkan penerbit. Di sini, kita langsung menerbitkan tulisan di platform yang sudah ramai pembaca, misalnya media sosial. Bedanya dengan cara tradisional, menulis online lebih mudah untuk dikenal dan menghasilkan uang. Kamu bisa menulis dan langsung lihat reaksi pembaca."
+                    },
+                    {
+                        "judul": "Kenapa Umpan Balik Penting?",
+                        "isi": "Menulis online memungkinkan kita mendapat tanggapan pembaca dengan cepat. Dari sini, kita tahu apakah tulisan kita disukai atau tidak. Kalau responsnya baik, kita bisa buat lebih banyak tulisan serupa. Kalau nggak disukai, kita bisa segera memperbaiki."
+                    },
+                    {
+                        "judul": "Langkah-Langkah Menulis Online:",
+                        "isi": "Cari Ide: Tulis berbagai ide di platform yang berbeda. Lihat mana yang paling cocok.\nDapatkan Umpan Balik: Minta pendapat pembaca untuk tahu ide mana yang berhasil.\nAnalisis Hasil: Perhatikan mana ide yang paling banyak mendapat tanggapan untuk meningkatkan tulisan kita.\n"
+                    },
+                    {
+                        "judul": "Cara Mendapatkan Uang dari Menulis Online:",
+                        "isi": "Iklan atau Afiliasi: Dapat penghasilan dari iklan. Cocok kalau kita punya banyak pembaca.\nKonten Berbayar (Paywall): Konten eksklusif untuk pembaca yang bersedia membayar, misalnya newsletter atau kursus.\nLayanan Menulis: Menyediakan jasa menulis untuk orang atau bisnis, misalnya menulis artikel atau naskah.\n"
+                    },
+                    {
+                        "judul": "Kesimpulan",
+                        "isi": "Video menyimpulkan bahwa menulis online adalah jalan yang efektif untuk menghasilkan uang dan membangun karir menulis. Dengan memanfaatkan platform media sosial, meminta umpan balik, dan menganalisis data, seorang penulis dapat membangun audiens setia yang bersedia membayar untuk karya mereka. Video juga merekomendasikan buku Nicholas Cole sebagai sumber informasi lebih lanjut."
+                    }
+                ],
+                "rekomendasiBuku": [
+                    {
+                        "judul": "So Good They Can’t Ignore You – ",
+                        "penulis": "Cal Newport",
+                        "img": "/img/So Good They Can’t Ignore You - Cal Newport.jpeg"
+                    },
+                    {
+                        "judul": "Deep Work – ",
+                        "penulis": "Cal Newport",
+                        "img": "/img/Deep Work Rules for Focused Success in a Distracted World – Cal Newport.jpeg"
+                    },
+                    {
+                        "judul": "Atomic Habits",
+                        "penulis": "James Clear",
+                        "img": "/img/atomic habits.jpeg"
+                    },
+                    {
+                        "judul": "Lean Startup - ",
+                        "penulis": "Eric Ries",
+                        "img": "/img/the learn startup.jpeg"
+                    },
+                    {
+                        "judul": "The Millionaire Fastlane",
+                        "penulis": "MJ DeMarco",
+                        "img": "/img/The Millionaire Fastlane_ Crack the Code to Wealth and Live Rich for a Lifetime.jpg"
+                    },
+                    {
+                        "judul": "The 4-Hour Workweek",
+                        "penulis": "Tim Ferriss",
+                        "img": "/img/The 4 hour workweek.jpg"
+                    },
+                    {
+                        "judul": "Copywriting Secrets – ",
+                        "penulis": "Jim Edwards",
+                        "img": "/img/images (12).jpg"
+                    },
+                    {
+                        "judul": "You Are a Badass at Making Money -",
+                        "penulis": "Jen Sincero",
+                        "img": "/img/you are baddas.jpeg"
+                    },
+                    {
+                        "judul": "Building a StoryBrand - ",
+                        "penulis": "Donald Miller",
+                        "img": "/img/Building A Story Brand.jpeg"
+                    },
+                    {
+                        "judul": "Crushing It! - ",
+                        "penulis": "Gary Vaynerchuk",
+                        "img": "/img/crushing it.jpeg"
+                    }
+                ],
                 "videoTitle": "Ali Abdaal",
                 "url": "https://www.youtube.com/embed/FeLNpX1GljM?si=TgYcO7gmBxkSwhGl",
-                "linkVideo": ""
+                "linkVideo": "../video-yt/5 High Income Skills for Students to Learn in 2024.mp4"
             },
             {
                 "judul": "7 Side Hustles Ideas to Make $1000/Month",
-                "ringkasan": "",
-                "rekomendasiBuku": "",
+                "ringkasan": [
+                    {
+                        "judul": "Filosofi Keterampilan Berpenghasilan Tinggi",
+                        "isi": "Video ini mengajarkan bahwa setiap orang adalah seorang pengusaha. Perusahaan Anda adalah diri Anda sendiri, dan nilai Anda di pasar ditentukan oleh keterampilan yang dimiliki. Semakin banyak keterampilan berpenghasilan tinggi yang Anda miliki, semakin tinggi harga pasar Anda."
+                    },
+                    {
+                        "judul": "Keterampilan Tinggi vs. Keterampilan Rendah",
+                        "isi": "Ali membedakan keterampilan berpenghasilan tinggi dan rendah. Keterampilan seperti menjadi dokter umum berada di tingkat rendah. Namun, menjadi ahli bedah saraf merupakan keterampilan tingkat tinggi karena nilainya lebih tinggi di pasar. Begitu pula dengan keterampilan dasar bermain gitar, bisa saja bernilai tinggi jika menjadi musisi ternama. Sebaliknya, menulis esai akademik cenderung tidak terlalu berharga secara finansial. Copywriting dan desain website adalah contoh keterampilan berpenghasilan tinggi."
+                    },
+                    {
+                        "judul": "Lima Keterampilan Berpenghasilan Tinggi",
+                        "isi": "Video ini menyoroti lima keterampilan tinggi yang dapat mahasiswa pelajari.\n1. Konsultan Perangkat Lunak Untuk Bisnis\nBanyak bisnis membutuhkan bantuan untuk menggunakan perangkat lunak dengan lebih efektif. Keterampilan ini adalah tingkat tinggi karena bisnis bersedia membayar untuk mendapatkan bimbingan, terutama bagi orang-orang yang sudah terbiasa dengan internet, seperti mahasiswa. Contoh, konsultan Notion seperti yang dilakukan oleh mahasiswa Molina, dapat menghasilkan pendapatan tinggi.\n2. Copywriting\nKeterampilan ini berfokus pada meningkatkan tingkat konversi penjualan dengan membuat konten yang menarik dan persuasif untuk bisnis. Contohnya, jika halaman penjualan suatu produk meningkat konversinya, hasil penjualannya akan meningkat secara signifikan. Sebuah sales page yang baik akan meningkatkan penjualan produk.\n3. Desain\nBisnis membutuhkan berbagai macam aset desain. Seorang desainer, entah desainer web atau desain grafis profesional, dapat memperoleh pendapatan tinggi dengan mengembangkan portofolio dan menargetkan bisnis yang tepat. Keterampilan desain dapat digunakan untuk menghasilkan uang di berbagai bidang.\n4. Pembuat Website\nKeterampilan pembuatan website (web design, web development) menjadi bernilai tinggi, karena hampir semua bisnis memerlukan website untuk beroperasi online. Contohnya adalah Henry, yang mampu merancang situs web dan memaksimalkan konversi penjualan bisnis.\n5. Pemrograman\nPemrograman merupakan keterampilan yang sangat berharga di era digital. Banyak bisnis dan individu yang membutuhkan pengembang aplikasi. Dengan keterampilan ini, Anda dapat membuat dan menjual aplikasi Anda sendiri, atau bekerja dengan bisnis. Contohnya adalah Sahel, yang menciptakan alat AI untuk editor video.\n"
+                    }
+                ],
+                "rekomendasiBuku": [
+                    {
+                        "judul": "The Lean Startup",
+                        "penulis": "Eric Ries",
+                        "img": "/img/the learn startup.jpeg"
+                    },
+                    {
+                        "judul": "Atomic Habits",
+                        "penulis": "James Clear",
+                        "img": "/img/atomic habits.jpeg"
+                    },
+                    {
+                        "judul": "So Good They Can’t Ignore You – ",
+                        "penulis": "Cal Newport",
+                        "img": "/img/So Good They Can’t Ignore You - Cal Newport.jpeg"
+                    },
+                    {
+                        "judul": "100M Offers - ",
+                        "penulis": "Alex Hormozi",
+                        "img": "/img/$100moffers.jpg"
+                    },
+                    {
+                        "judul": "The $100 Startup ",
+                        "penulis": "Chris Guillebeau",
+                        "img": "/img/the 100 startup.jpeg"
+                    },
+                    {
+                        "judul": "Expert Secrets: The Underground Playbook",
+                        "penulis": "Russell Brunson",
+                        "img": "/img/Expert Secrets The Underground Playbook - Russell Brunson.jpeg"
+                    },
+                    {
+                        "judul": "Crushing It! - ",
+                        "penulis": "Gary Vaynerchuk",
+                        "img": "/img/crushing it.jpeg"
+                    },
+                    {
+                        "judul": "Mindset: The New Psychology of Success – ",
+                        "penulis": "Carol S. Dweck",
+                        "img": "/img/Mindset.jpeg"
+                    },
+                    {
+                        "judul": "The 4-Hour Workweek",
+                        "penulis": "Tim Ferriss",
+                        "img": "/img/The 4 hour workweek.jpg"
+                    },
+                    {
+                        "judul": "Show Your Work! – ",
+                        "penulis": "Austin Kleon",
+                        "img": "/img/Show Your Work! -.jpg"
+                    }
+                ],
                 "videoTitle": "Ali Abdaal",
                 "url": "https://www.youtube.com/embed/I-dlPuqFguo?si=bC4Ii1lM4duGsS-W",
-                "linkVideo": ""
+                "linkVideo": "../video-yt/7-side-hustles-ideas-to-make-1000-month-720-ytshorts.savetube.me.mp4"
             },
             {
                 "judul": "10 Ide Income Pertama Paling Realistis",
                 "ringkasan": "",
-                "rekomendasiBuku": "",
+                "rekomendasiBuku": [
+                    {
+                        "judul": "Rich Dad Poor Dad – ",
+                        "penulis": "Robert T. Kiyosaki",
+                        "img": "/img/rich-dad-poor-dad-_edisi-revisi_.jpeg"
+                    },
+                    {
+                        "judul": "The 4-Hour Workweek",
+                        "penulis": "Tim Ferriss",
+                        "img": "/img/The 4 hour workweek.jpg"
+                    },
+                    {
+                        "judul": "Start with Why – ",
+                        "penulis": "Simon Sinek",
+                        "img": "/img/start with why.jpeg"
+                    },
+                    {
+                        "judul": "The Lean Startup",
+                        "penulis": "Eric Ries",
+                        "img": "/img/the learn startup.jpeg"
+                    },
+                    {
+                        "judul": "Side Hustle: From Idea to Income in 27 Days – ",
+                        "penulis": "Chris Guillebeau",
+                        "img": "/img/Side Hustle.jpeg"
+                    },
+                    {
+                        "judul": "How to Win Friends and Influence People – ",
+                        "penulis": "Dale Carnegie",
+                        "img": "/img/How to Win Friends and Influence People.jpeg"
+                    },
+                    {
+                        "judul": "So Good They Can’t Ignore You – ",
+                        "penulis": "Cal Newport",
+                        "img": "/img/So Good They Can’t Ignore You - Cal Newport.jpeg"
+                    },
+                    {
+                        "judul": "The Millionaire Fastlane",
+                        "penulis": "MJ DeMarco",
+                        "img": "/img/The Millionaire Fastlane_ Crack the Code to Wealth and Live Rich for a Lifetime.jpg"
+                    },
+                    {
+                        "judul": "The $100 Startup ",
+                        "penulis": "Chris Guillebeau",
+                        "img": "/img/the 100 startup.jpeg"
+                    },
+                    {
+                        "judul": "Crushing It! - ",
+                        "penulis": "Gary Vaynerchuk",
+                        "img": "/img/crushing it.jpeg"
+                    }
+                ],
                 "videoTitle": "Felicia Putri Tjiasaka",
                 "url": "https://www.youtube.com/embed/rUrdSX6nIAM?si=E_stsIROP3cbDGMO",
                 "linkVideo": "../video-yt/Felicia Putri Tjiasaka/10 Ide Income Pertama Paling Realistis🤑 - Felicia Putri Tjiasaka (720p, h264, youtube).mp4"
@@ -561,7 +820,58 @@
             {
                 "judul": "3 Cara Dapet 1 Miliar perbulan",
                 "ringkasan": "",
-                "rekomendasiBuku": "",
+                "rekomendasiBuku": [
+                    {
+                        "judul": "Rich Dad Poor Dad - ",
+                        "penulis": "Robert T. Kiyosaki",
+                        "img": "/img/rich-dad-poor-dad-_edisi-revisi_.jpeg"
+                    },
+                    {
+                        "judul": "The Millionaire Fastlane",
+                        "penulis": "MJ DeMarco",
+                        "img": "/img/The Millionaire Fastlane_ Crack the Code to Wealth and Live Rich for a Lifetime.jpg"
+                    },
+                    {
+                        "judul": "Think and Grow Rich",
+                        "penulis": "Napoleon Hill",
+                        "img": "/img/thinkgrowrich.jpeg"
+                    },
+                    {
+                        "judul": "The Intelligent Investor - ",
+                        "penulis": "Benjamin Graham",
+                        "img": "/img/TheIntelligentInvestor.jpeg"
+                    },
+                    {
+                        "judul": "Your Money or Your Life - ",
+                        "penulis": "Vicki Robin & Joe Dominguez",
+                        "img": "/img/Your Money or Your Life - Vicki Robin.jpg"
+                    },
+                    {
+                        "judul": "The 4-Hour Workweek",
+                        "penulis": "Tim Ferriss",
+                        "img": "/img/The 4 hour workweek.jpg"
+                    },
+                    {
+                        "judul": "The Little Book of Common Sense Investing - ",
+                        "penulis": "John C. Bogle",
+                        "img": "/img/TheLittlebook.jpeg"
+                    },
+                    {
+                        "judul": "Unshakeable: Your Financial Freedom Playbook ",
+                        "penulis": "Tony Robbins",
+                        "img": "/img/images (42).jpg"
+                    },
+                    {
+                        "judul": "The Lean Startup",
+                        "penulis": "Eric Ries",
+                        "img": "/img/the learn startup.jpeg"
+                    },
+                    {
+                        "judul": "The Richest Man in Babylon - ",
+                        "penulis": "George S. Clason",
+                        "img": "/img/The Richest Man In Babylon.jpg"
+                    }
+                ],
                 "videoTitle": "Raymond Chin",
                 "url": "https://www.youtube.com/embed/FZ8iRrndw3M?si=3ypXpJaK8rvnSnsH",
                 "linkVideo": "../video-yt/3 Cara Dapet 1 Miliar  Bulan.mp4"
@@ -636,7 +946,7 @@
                 "rekomendasiBuku": "",
                 "videoTitle": "Mark Tilbury",
                 "url": "https://www.youtube.com/embed/9jA4TTZVaZs?si=mjSz5gX9f_6d-VLP",
-                "linkVideo": ""
+                "linkVideo": "../video-yt/the-5-industries-most-likely-to-make-you-a-millionaire-480-ytshorts.savetube.me.mp4"
             }
         ]
     }

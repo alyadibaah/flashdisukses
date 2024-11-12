@@ -291,19 +291,14 @@
                         "img": "/img/the learn startup.jpeg"
                     },
                     {
-                        "judul": "E-Commerce 2021: Business, Technology, Society",
-                        "penulis": "Paul Mayfield",
-                        "img": "/img/E-commerce.jpeg"
-                    },
-                    {
                         "judul": "Jab, Jab, Jab, Right Hook",
                         "penulis": "Gary Vaynerchuk",
-                        "img": "/img/jab jab jab.jpg"
+                        "img": "/img/Jab,Jab,Jab,Hook.jpg"
                     },
                     {
                         "judul": "Building a StoryBrand",
                         "penulis": "Donald Miller",
-                        "img": "/img/Building A Story Brand.jpeg"
+                        "img": "/img/Building A Story Brand.jpg"
                     },
                     {
                         "judul": "Crushing It! – Gary Vaynerchuk",
@@ -313,7 +308,7 @@
                     {
                         "judul": "Digital Marketing for Dummies – ",
                         "penulis": "Ryan Deiss dan Russ Henneberry",
-                        "img": "/img/For Dummies.jpeg"
+                        "img": "/img/Digital Marketing for Dummies .jpeg"
                     },
                     {
                         "judul": "The E-Myth Revisited – ",
@@ -323,12 +318,7 @@
                     {
                         "judul": "Hooked: How to Build Habit-Forming Products –",
                         "penulis": "Nir Eyal",
-                        "img": "/img/buku-hooked.jpg"
-                    },
-                    {
-                        "judul": "SEO 2022: Learn Search Engine Optimization – ",
-                        "penulis": "Adam Clarke",
-                        "img": "/img/SEO.jpeg"
+                        "img": "/img/Hooked.jpg"
                     },
                     {
                         "judul": "Shoe Dog",
@@ -1193,7 +1183,7 @@
                 "": ""
             },
             {
-                "judul": "58 Mins of Advice That Will Blow Up Your Business",
+                "judul": "Saran yang Akan Meledakkan Bisnis Anda",
                 "ringkasan": [
                     {
                         "judul": "Akuisisi Perusahaan Lain",
@@ -1273,7 +1263,7 @@
                 "": ""
             },
             {
-                "judul": "7 Ways to Get People to Buy More Times",
+                "judul": "7 Cara Membuat Orang Membeli Lebih Banyak Kali",
                 "ringkasan": [
                     {
                         "judul": "Meningkatkan Nilai Pelanggan",
@@ -1312,7 +1302,7 @@
                 "": ""
             },
             {
-                "judul": "I Helped Business Owners Overcome Their Fear of Failure",
+                "judul": "Saya Membantu Pemilik Bisnis Mengatasi Ketakutan Mereka Akan Kegagalan",
                 "ringkasan": [
                     {
                         "judul": "Pendahuluan",
@@ -1392,7 +1382,7 @@
                 "": ""
             },
             {
-                "judul": "OKRs for Business Productivity",
+                "judul": "OKR untuk Produktivitas Bisnis",
                 "ringkasan": [
                     {
                         "judul": "Pendahuluan",
@@ -1997,88 +1987,6 @@
                 "": ""
             },
             {
-                "judul": "Stop Being Broke. Get Busy",
-                "ringkasan": [
-                    {
-                        "judul": "Menyesuaikan Apa Yang Tidak Terukur Menjadi Terukur",
-                        "isi": "Pembicara menjelaskan bahwa banyak orang keliru dalam mengelola bisnis dengan menganggap beberapa hal tidak bisa diukur atau dikembangkan. Padahal, hampir semua hal bisa diskalakan dengan sistem dan proses yang tepat. Contohnya, pelatihan pribadi (fitness coaching) mungkin terlihat tidak bisa diukur, tapi bisa dibuat terukur dengan merekrut dan melatih tim."
-                    },
-                    {
-                        "judul": "Jangan Terjebak Pada Persepsi Awal",
-                        "isi": "Pembicara menyoroti kesalahan umum saat orang ragu memulai karena merasa langkah awal tidak bisa dikembangkan. Dengan memulai dulu, kita bisa lebih paham ide, menemukan masalah utama (pain point) klien, dan menyusun agar bisa dikembangkan."
-                    },
-                    {
-                        "judul": "Dua Hal Penting",
-                        "isi": "Kontinum Penjualan ke Pelaksanaan: Konsep ini menjelaskan bahwa produk atau layanan yang mudah dijual biasanya sulit untuk dijalankan dan sebaliknya. Ide kunci: mulai dari produk atau layanan yang paling sulit dijual namun mudah dijalankan. Ini memungkinkan Anda membangun sistem dan SOP secara bertahap.\nPiramida Lakukan Untuk Anda, Lakukan Dengan Anda, Lakukan Sendiri: Pendekatan dari atas ke bawah (top-down) – mulai dari model \"\"lakukan untuk Anda\"\" (high-end) yang memungkinkan memaksimalkan pendapatan awal – penting untuk membangun fondasi dan sistem yang kuat sebelum menurunkan model menjadi \"\"lakukan dengan Anda\"\" dan terakhir \"\"lakukan sendiri.\"\""
-                    },
-                    {
-                        "judul": "Tips Praktis untuk Skalabilitas",
-                        "isi": "Pembicara memberikan saran praktis untuk menerapkan ide skabilitas, termasuk:\nMendengarkan secara aktif pelanggan (one-on-one) untuk mengidentifikasi masalah dan kebutuhan yang sesungguhnya. Bertanyalah: \"\"Jika saya menghilangkan semua fitur kecuali satu, yang mana?\"\" dan \"\"Jika saya menghilangkan satu fitur, yang mana yang tidak mengubah hidup Anda?\"Meningkatkan efisiensi per prospek/peluang di awal. Pada saat Anda memulai bisnis kecil, fokus pada efisiensi.Membangun sistem: Mulailah dengan proses yang tidak terukur (misalnya menulis surat tangan), identifikasi elemen-elemen paling efektif dan pahami caranya diskalakan.\""
-                    }
-                ],
-                "rekomendasiBuku": [
-                    {
-                        "judul": "How to Win Friends and Influence People",
-                        "penulis": "Dale Carnegie",
-                        "img": "/img/How to Win Friends and Influence People.jpeg"
-                    },
-                    {
-                        "judul": "Jab, Jab, Jab, Right Hook",
-                        "penulis": "Gary Vaynerchuk",
-                        "img": "/img/jab jab jab.jpg"
-                    },
-                    {
-                        "judul": "The Art of Social Media",
-                        "penulis": "Guy Kawasaki & Peg Fitzpatrick",
-                        "img": "/img/images (27).jpg"
-                    },
-                    {
-                        "judul": "Building a StoryBrand",
-                        "penulis": "Donald Miller",
-                        "img": "/img/Building A Story Brand.jpeg"
-                    },
-                    {
-                        "judul": "Influence: The Psychology of Persuasion",
-                        "penulis": "Robert Cialdini",
-                        "img": "/img/InfluenceThe PsychologyofPersuasion.jpeg"
-                    },
-                    {
-                        "judul": "The Referral Engine",
-                        "penulis": "John Jantsch",
-                        "img": "/img/The Refferal.jpg"
-                    },
-                    {
-                        "judul": "Getting More",
-                        "penulis": "Stuart Diamond",
-                        "img": "/img/More.jpeg"
-                    },
-                    {
-                        "judul": "Start with Why",
-                        "penulis": "Simon Sinek",
-                        "img": "/img/start with why.jpeg"
-                    },
-                    {
-                        "judul": "The Thank You Economy",
-                        "penulis": "Gary Vaynerchuk",
-                        "img": "/img/The Thank.jpeg"
-                    },
-                    {
-                        "judul": "Hug Your Haters",
-                        "penulis": "Jay Baer",
-                        "img": "/img/Hug Your Haters.jpg"
-                    },
-                    {
-                        "judul": "judul",
-                        "penulis": "penulis",
-                        "img": "img"
-                    }
-                ],
-                "videoTitle": "Alex Hormozi",
-                "url": "https://www.youtube.com/embed/H_ZLs1-jOKQ",
-                "linkVideo": "../video-yt/stop-being-broke-get-busy-480-ytshorts.savetube.me.mp4",
-                "": ""
-            },
-            {
                 "judul": "Saran Jujur untuk Orang yang Ingin Kaya",
                 "ringkasan":[
                     {
@@ -2322,7 +2230,7 @@
                 "": ""
             },
             {
-                "judul": "The Blueprint To $5,000/Month As A Beginner (2024)",
+                "judul": "Mendapatkan $5.000/Bulan Sebagai Pemula (2024)",
                 "ringkasan": [
                     {
                         "judul": "Membangun Konsep (Ide)",
@@ -2423,7 +2331,7 @@
                 "": ""
             },
             {
-                "judul": "Broke & Homeless To $10,000 In 24 Hours!",
+                "judul": "Bangkrut & Kehilangan Tempat Tinggal Hingga $10.000 Dalam 24 Jam!",
                 "ringkasan": [
                     {
                         "judul": "Seorang Pria Menghadapi Tantangan dan Mendapatkan Hadiah",
@@ -3181,7 +3089,7 @@
                 "": ""
             },
             {
-                "judul": "13 Years of No BS Business Advice in 79 Mins",
+                "judul": "13 Tahun Nasihat Bisnis Tanpa Omong Kosong dalam 79 Menit",
                 "ringkasan": [
                     {
                         "judul": "trik Harga Jangkar (Anchoring Tactic)",
@@ -3282,7 +3190,7 @@
                 "": ""
             },
             {
-                "judul": "9 Business Lessons - How I Made $1.6m in 30 Days",
+                "judul": "9 Pelajaran Bisnis - Bagaimana Saya Menghasilkan $1,6 juta dalam 30 Hari",
                 "ringkasan": [
                     {
                         "judul": "Pelajaran 1: Hutang Ketidaktahuan",
@@ -3375,7 +3283,7 @@
                 "": ""
             },
             {
-                "judul": "10x Your Profit. 10x Your Pricing. 10x Your Business. [Here's how]",
+                "judul": "10x Keuntungan Anda. 10x Harga Anda. 10x Bisnis Anda. [Here's how]",
                 "ringkasan": [
                     {
                         "judul": "Langkah 1: Memahami Esensi Branding",
@@ -3464,7 +3372,7 @@
                 "": ""
             },
             {
-                "judul": "How To Set Up A Business In 47 Minutes",
+                "judul": "Cara Mendirikan Bisnis Dalam 47 Menit",
                 "ringkasan": [
                     {
                         "judul": "Pengantar dan Motivasi",
@@ -3545,7 +3453,7 @@
                 "": ""
             },
             {
-                "judul": "semua penjual beromset milyaran pakai cara ini !",
+                "judul": "Semua penjual beromset milyaran pakai cara ini !",
                 "ringkasan": [
                     {
                         "judul": "Point",
@@ -3605,7 +3513,7 @@
                 "": ""
             },
             {
-                "judul": "How to Be a Millionaire on a Low Salary",
+                "judul": "Cara Menjadi Jutawan dengan Gaji Rendah",
                 "ringkasan": [
                     {
                         "judul": "Fakta para Milyuner",
@@ -3690,7 +3598,7 @@
                 "": ""
             },
             {
-                "judul": "This ONE Thing Will Make You A Better Entrepreneur",
+                "judul": "SATU Hal Ini Akan Membuat Anda Menjadi Pengusaha yang Lebih Baik",
                 "ringkasan": [
                     {
                         "judul": "Poin Penting:",
@@ -3740,7 +3648,7 @@
                 "": ""
             },
             {
-                "judul": "2 types of business risk and the one I choose EVERY TIME",
+                "judul": "2 jenis risiko bisnis dan yang saya pilih SETIAP SAAT",
                 "ringkasan": [
                     {
                         "judul": "Pendahuluan",
@@ -3837,83 +3745,7 @@
                 "": ""
             },
             {
-                "judul": "After I Read 40 Books on Business - Heres What Will Make You Rich",
-                "ringkasan": [
-                    {
-                        "judul": "Bagaimana Memulai Bisnis Tanpa Modal",
-                        "isi": "Bagian ini menekankan pentingnya memanfaatkan ide dan kekuatan internal, alih-alih fokus pada kelemahan. Langkah-langkahnya meliputi:\nTemukan kekuatan Anda: Identifikasi bakat dan keahlian alami. Memanfaatkan kekuatan dapat membuat Anda sepuluh kali lebih sukses. Gunakan ide sebagai kunci untuk mengoptimalkan kekuatan.\nKembangkan Ide Bisni : Pilih ide bisnis di mana Anda memiliki keunggulan kompetitif. Cari ide yang memanfaatkan kebenaran yang tidak terdeteksi oleh orang lain. Contohnya, ide Apple dan Uber.\nBuat rencana bisnis: Strukturkan bisnis dengan jelas. Gunakan metode visualisasi dalam merencanakan bisnis. Contoh yang diberikan adalah bisnis keanggotaan untuk YouTuber.\nBuat **prototipe minimum (MVP): Kembangkan prototipe produk minimum untuk menguji ide Anda. Jangan menghabiskan banyak waktu pada produk yang sempurna.\nEksekusi **ide: Terapkan rencana dengan disiplin dan fokus. Buat tenggat waktu dan target per tiga bulan untuk menjaga motivasi."
-                    },
-                    {
-                        "judul": "Bagaimana Menjual Apa Pun Kepada Siapa Pun",
-                        "isi": "Bagian ini menyoroti pentingnya membangun hubungan dan komunikasi yang efektif dalam penjualan.\nAtur kerangka: Panaskan calon pembeli sebelum mempromosikan ide. Ciptakan iklim yang positif dan penerimaan yang lebih baik. Contohnya, penetapan harga sebagai kerangka.\nBangun hubungan: Lakukan banyak panggilan telepon untuk membangun relasi. Memperkuat hubungan pribadi sangat penting untuk penutupan bisnis.\nBersikap persuasif: Pahami perspektif calon klien. Jadilah pendengar yang baik untuk memahami kebutuhan dan keinginan mereka.\nKerjasama efektif: Ubah negosiasi menjadi kerjasama. Gunakan pertanyaan yang terarah dan berfokus pada solusi.\nPenutupan kesepakatan: Tuntut komitmen tegas pada penutupan kesepakatan. Tangani keberatan dengan penuh keyakinan dan arahkan mereka ke tindakan spesifik."
-                    },
-                    {
-                        "judul": "Bagaimana Memasarkan Bisnis Anda",
-                        "isi": "Bagian ini membahas langkah-langkah menciptakan ide pemasaran yang unik dan efektif.\nUSP (Unique Selling Proposition): Berikan produk atau layanan yang yang luar biasa. Jadilah \"\"sapi ungu\"\" dalam pemasaran Anda. Buat ide yang meninggalkan kesan kuat pada target audiens.\nData dunia nyata: Kumpulkan data yang relevan tentang pelanggan dan tren pasar. Tanyakan pertanyaan yang tepat tentang gaya hidup target pasar untuk mendapatkan wawasan yang berharga.\nPesan merek: Ciptakan pesan merek yang jelas dan mudah diingat. Gunakan narasi \"\"perjalanan pahlawan\"\" untuk menarik minat pelanggan.\nPenjualan tambahan: Usahakan meningkatkan harga dan produk untuk menghasilkan keuntungan lebih besar. Gunakan model webinar untuk meningkatkan penjualan pada pelanggan setia yang sudah mengenal ide bisnis tersebut.\nMemaksimalkan permintaan: Gunakan produk atau layanan yang langka untuk mendorong permintaan."
-                    },
-                    {
-                        "judul": "Bagaimana Mengelola Keuangan Seperti 1%",
-                        "isi": "Bagian ini fokus pada prinsip-prinsip penting dalam mengelola keuangan bisnis.\nPantau keuangan: Perhatikan laporan keuangan untuk mencegah masalah keuangan. Evaluasi kemampuan bisnis untuk bertahan tanpa pemasukan selama tiga bulan jika terjadi krisis.\nTetap menghasilkan keuntungan: Fokus pada profitabilitas, bukan hanya penjualan. Lakukan pengalokasian laba secara spesifik pada penghasilan Anda untuk membantu bisnis berkembang dan bertahan.\nRencanakan pajak: Manfaatkan berbagai keringanan dan hak secara maksimal.\nLakukan riset dan analisis keuangan: Jangan bergantung pada informasi dari pihak lain (Mr. Market). Buat keputusan berdasarkan data dan pemikiran kritis Anda sendiri.\nMinimalisasi risiko: Berhati-hatilah dalam mengambil risiko, terutama pada tahap awal bisnis."
-                    },
-                    {
-                        "judul": "Kesimpulan akhir",
-                        "isi": "Video memberikan banyak strategi untuk memulai dan mengembangkan bisnis, dari mendapatkan ide hingga menjalankan rencana. Video mendorong viewer untuk mengembangkan ide dan tetap fokus pada kekuatan dan rencana bisnis yang matang."
-                    }
-                ],
-                "rekomendasiBuku": [
-                    {
-                        "judul": "The Lean Startup",
-                        "penulis": "Eric Ries",
-                        "img": "/img/the learn startup.jpeg"
-                    },
-                    {
-                        "judul": "Rich Dad Poor Dad",
-                        "penulis": "Robert T. Kiyosaki",
-                        "img": "/img/rich-dad-poor-dad-_edisi-revisi_.jpeg"
-                    },
-                    {
-                        "judul": "Mindset: the new psychology of success",
-                        "penulis": "Carol S. Dweck",
-                        "img": "/img/Mindset.jpeg"
-                    },
-                    {
-                        "judul": "The $100 startup",
-                        "penulis": "Chriss guillebeau",
-                        "img": "/img/the 100 startup.jpeg"
-                    },
-                    {
-                        "judul": "The 4-hour workweek",
-                        "penulis": "Tim ferriss",
-                        "img": "/img/the 4 hour.jpeg"
-                    },
-                    {
-                        "judul": "Grit: the power of passion and perseverance",
-                        "penulis": "Angela duckworth",
-                        "img": "/img/grit the power of passion.jpg"
-                    },
-                    {
-                        "judul": "The E-myth revisited",
-                        "penulis": "Michael E. Gerber",
-                        "img": "/img/The E Myth.jpg"
-                    },
-                    {
-                        "judul": "Atomic habits",
-                        "penulis": "James clear",
-                        "img": "/img/atomic habits.jpeg"
-                    },
-                    {
-                        "judul": "You are a badass at making money",
-                        "penulis": "Jen sincero",
-                        "img": "/img/you are baddas.jpeg"
-                    }
-                ],
-                "videoTitle": "Mark Tilbury",
-                "url": "https://www.youtube.com/embed/pVboJN7YJ0o",
-                "linkVideo": "../video-yt/Mark Tilbury/After I Read 40 Books on Business - Here’s What Will Make You Rich - Mark Tilbury (720p, h264, youtube).mp4",
-                "": ""
-            },
-            {
-                "judul": "We Started A Business In 10 Steps (The Easy Way)",
+                "judul": "Kami Memulai Bisnis Dalam 10 Langkah (Cara Mudah)",
                 "ringkasan": [
                     {
                         "judul": "Branding (Langkah Pertama)",
@@ -4004,7 +3836,7 @@
                 "": ""
             },
             {
-                "judul": "If I Was Broke, Heres How Id Start A Business (In 8 Steps)",
+                "judul": "Jika Saya Bangkrut, Begini Cara Saya Memulai Bisnis (Dalam 8 Langkah)",
                 "ringkasan": [
                     {
                         "judul": "Langkah-langkah Memulai Bisnis:",
@@ -4054,7 +3886,7 @@
                 "": ""
             },
             {
-                "judul": "$100M ceo explains how to build a brand in 2024",
+                "judul": "CEO dengan penghasilan $100 juta menjelaskan cara membangun merek pada tahun 2024",
                 "ringkasan": [
                     {
                         "judul": "Pendahuluan",
@@ -4134,7 +3966,7 @@
                 "": ""
             },
             {
-                "judul": "this video will make you more than anything else on the internet",
+                "judul": "Membuat Anda lebih dari apa pun di Internet",
                 "ringkasan": [
                     {
                         "judul": "Ide Utama: Membuat Penawaran yang Sangat Menarik agar Orang Merasa Bodoh Jika Menolak",
@@ -4209,7 +4041,7 @@
                 "": ""
             },
             {
-                "judul": "How To Go From $0 To $100M In 55 Minutes",
+                "judul": "Cara Beralih Dari $0 Ke $100 Juta Dalam 55 Menit",
                 "ringkasan": [
                     {
                         "judul": "Tahap 1: Filosofi Bisnis",
@@ -4286,7 +4118,7 @@
                 "": ""
             },
             {
-                "judul": "how to make a TON of money (in just a few minutes)",
+                "judul": "Cara Menghasilkan Banyak Uang",
                 "ringkasan": [
                     {
                         "judul": "Metode utama:",
@@ -4359,7 +4191,7 @@
                 "": ""
             },
             {
-                "judul": "Luke Belmar's Guide To Making Money Blew My Mind",
+                "judul": "Panduan untuk Menghasilkan Uang Membuat Saya Tercengang",
                 "ringkasan": [
                     {
                         "judul": "Tiga Kunci Utama Kemampuan Menghasilkan Uang",
@@ -4766,7 +4598,128 @@
                 "url": "https://www.youtube.com/embed/d7xdvgmrvnA?si=wjAPXwOtVhwzuFFs",
                 "linkVideo": "../video-yt/Felicia Putri Tjiasaka/Mau kaya harus investasi__ #moneymyth - Felicia Putri Tjiasaka (720p60, h264, youtube).mp4",
                 "": ""
-            }
+            },
+
+                {
+                    "judul": "4 Bisnis Tanpa Modal untuk Pemula.",
+                    "ringkasan": "",
+                    "rekomendasiBuku": "",
+                    "videoTitle": "Raymond Chin",
+                    "url": "https://www.youtube.com/embed/wosPSj7fF34?si=UfRhdlnP-HeELfgw\" ",
+                    "linkVideo": "../video-yt/4 Bisnis Tanpa Modal Untuk Pemula - Raymond Chin (720p, h264, youtube).mp4"
+                },
+                {
+                    "judul": "Ga Punya Modal Bisnis? 3 Cara PASTI Dapetin Modal",
+                    "ringkasan": "",
+                    "rekomendasiBuku": "",
+                    "videoTitle": "Raymond Chin",
+                    "url": "https://www.youtube.com/embed/C_jT76rfN0A?si=WxjQolw4dXXjazY2\"",
+                    "linkVideo": "../video-yt/Ga Punya Modal Bisnis_ 3 Cara PASTI Dapetin Modal.mp4"
+                },
+                {
+                    "judul": "✅ 5 CARA BISNIS MODAL KECIL | IDE BISNIS | Arli kurnia",
+                    "ringkasan": "",
+                    "rekomendasiBuku": "",
+                    "videoTitle": "Arli kurnia",
+                    "url": "https://www.youtube.com/embed/fyAuQnB9rxU?si=CYvMSGVgwNR7LKyo\" ",
+                    "linkVideo": "../video-yt/✅ 5 CARA BISNIS MODAL KECIL  IDE BISNIS  Arli kurnia.mp4"
+                },
+                {
+                    "judul": "MENINGKATKAN PENJUALAN E-COMMERCE DI TAHUN 2024",
+                    "ringkasan": "",
+                    "rekomendasiBuku": "",
+                    "videoTitle": "Charlie Chang",
+                    "url": "https://www.youtube.com/embed/Y4CsSpYa1qM?si=ChjbM3sRCwTNyQ4m",
+                    "linkVideo": "../video-yt/Charlie Chang/4 Strategies to Scale Your E-Commerce Sales in 2024.mp4"
+                },
+                {
+                    "judul": "I'm Broke, What Business Do I Start?",
+                    "ringkasan": "",
+                    "rekomendasiBuku": "",
+                    "videoTitle": "Alex Hormozi",
+                    "url": "https://www.youtube.com/embed/nIk3DedjxJM?si=-xDQ6UkXO14-wATD\" ",
+                    "linkVideo": ""
+                },
+                {
+                    "judul": "Ini Strategi & Mindset Bisnis Orang Terkaya ke 7 di Indonesia! - ft Hermanto Tanoko",
+                    "ringkasan": "",
+                    "rekomendasiBuku": "",
+                    "videoTitle": "Raymond Chin",
+                    "url": "https://www.youtube.com/embed/hrfJprWnvEo?si=BMqpdHvRMFPmw3rB",
+                    "linkVideo": ""
+                },
+                {
+                    "judul": "Belajar Strategi MIE GACOAN, Mie Pedas Nomor 1 di Indonesia?",
+                    "ringkasan": "",
+                    "rekomendasiBuku": "",
+                    "videoTitle": "Raymond Chin",
+                    "url": "https://www.youtube.com/embed/MNm9-7hOTWw?si=jfWMUwX9LyBJEXL6\" ",
+                    "linkVideo": ""
+                },
+                {
+                    "judul": "Cara Bangun Bisnis dari Nol - Mulai Dari Sini",
+                    "ringkasan": "",
+                    "rekomendasiBuku": "",
+                    "videoTitle": "Raymond Chin",
+                    "url": "https://www.youtube.com/embed/8g1H3ipDNOs?si=dy8f2VD4DdSsdHhG\" ",
+                    "linkVideo": "../video-yt/Cara Bangun Bisnis dari Nol - Mulai Dari Sini - Raymond Chin (720p, h264, youtube).mp4"
+                },
+                {
+                    "judul": "Bangun Usaha Modal 1 Juta - Langsung Praktek!",
+                    "ringkasan": "",
+                    "rekomendasiBuku": "",
+                    "videoTitle": "Raymond Chin",
+                    "url": "https://www.youtube.com/embed/L9_1pwvTT7I?si=nxfVTMXJxn-m2x6P\" ",
+                    "linkVideo": "../video-yt/Bangun Usaha Modal 1 Juta - Langsung Praktek! - Raymond Chin (720p, h264, youtube).mp4"
+                },
+                {
+                    "judul": "Cara Bangun Bisnis Sambil jadi Karyawan",
+                    "ringkasan": "",
+                    "rekomendasiBuku": "",
+                    "videoTitle": "Raymond Chin",
+                    "url": "https://www.youtube.com/embed/JeXoyLCgqJQ?si=OI_w0DI21o6nAcEe\" ",
+                    "linkVideo": "../video-yt/Cara Bangun Bisnis Sambil jadi Karyawan - Raymond Chin (720p, h264, youtube).mp4"
+                },
+                {
+                    "judul": "Rekomendasi Bisnis No.1 Buat Pemula, Tips untuk 2022",
+                    "ringkasan": "",
+                    "rekomendasiBuku": "",
+                    "videoTitle": "Raymond Chin",
+                    "url": "https://www.youtube.com/embed/7JwGfWMvCGw?si=h8MJF7FfwiW0pxp1\" ",
+                    "linkVideo": "../video-yt/Rekomendasi Bisnis No.1 Buat Pemula, Tips untuk 2022 - Raymond Chin (720p, h264, youtube).mp4"
+                },
+                {
+                    "judul": "Panduan Lengkap Memulai Bisnis Makanan dari Nol: Produk, Marketing, dan Operasi",
+                    "ringkasan": "",
+                    "rekomendasiBuku": "",
+                    "videoTitle": "Raymond Chin",
+                    "url": "https://www.youtube.com/embed/vOxI61Q6xWA?si=qyMunDES47nQWn2h\" ",
+                    "linkVideo": ""
+                },
+                {
+                    "judul": "3 Kunci Sukses Bisnis Kuliner, Belajar Dari Menantea, Kopken, dll",
+                    "ringkasan": "",
+                    "rekomendasiBuku": "",
+                    "videoTitle": "Raymond Chin",
+                    "url": "https://www.youtube.com/embed/DkPEGUUnJGE?si=6Qq0JxfM-OtfWBFX\" ",
+                    "linkVideo": ""
+                },
+                {
+                    "judul": "5 Tahap Memulai Bisnis Kecil Dari Nol",
+                    "ringkasan": "",
+                    "rekomendasiBuku": "",
+                    "videoTitle": "Ngomongin Uang",
+                    "url": "https://www.youtube.com/embed/irym62G4le4?si=KOAGVZBW82m4A7oj\" ",
+                    "linkVideo": ""
+                },
+                {
+                    "judul": "5 Ide Pengahsilan Umur 20an",
+                    "ringkasan": "",
+                    "rekomendasiBuku": "",
+                    "videoTitle": "Mudacumasekali",
+                    "url": "https://www.youtube.com/embed/kAavbGnm8IA?si=O4-40m6Yu3Uic7H5\"",
+                    "linkVideo": "../video-yt/Mudacumasekali/5 Ide Penghasilan Umur 20an.mp4"
+                }
         ]
     }
 
