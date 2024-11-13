@@ -1,11 +1,25 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Poppins:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
 
 * {
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
 }
+@font-face {
+	font-family: 'Poppins';
+	src: url('Poppins-Bold.ttf') format('ttf');
+	font-weight: bold;
+	font-style: normal;
+  }
+  
+  body {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400; /* Adjust as needed */
+}
 
+  
 a {
 	text-decoration: none;
 }
@@ -762,3 +776,62 @@ h2 {
 .suggestion-item:hover {
     background-color: #f0f0f0;
 }
+/* Centered Grid Section */
+.grid-section {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: auto auto;
+    gap: 20px;
+    max-width: 100%; /* Adjust width as needed */
+    margin: 0 auto; /* Center the grid horizontally */
+    padding: 40px;
+    justify-content: center;
+    align-items: center;
+}
+
+.grid-section .grid-item:nth-child(5),
+.grid-section .grid-item:nth-child(6),
+.grid-section .grid-item:nth-child(7) {
+    grid-column: span 1; /* Occupies only one column */
+}
+
+.grid-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    cursor: pointer;
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s;
+}
+
+.grid-item i {
+    font-size: 40px;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.grid-item p {
+    margin: 0;
+    font-size: 14px;
+    color: #333;
+}
+
+.grid-item:hover {
+    transform: scale(1.05);
+    background-color: #ddd;
+}
+
+.ajakan {
+	text-align: center;
+	margin-top: 50px;
+	font-size: 2em;
+	font-weight: bold;
+	color: #3b7b06;
+	height: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+  }

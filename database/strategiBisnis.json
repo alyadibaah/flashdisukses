@@ -379,7 +379,7 @@
                     {
                         "judul": "Financial Intelligence for Entrepreneurs -",
                         "penulis": "Karen Berman & Joe Knight",
-                        "img": "/img/financial.jpeg"
+                        "img": "/img/Financial Intelligence for Entrepreneurs .jpeg"
                     },
                     {
                         "judul": "The $100 Startup - ",
@@ -389,7 +389,7 @@
                     {
                         "judul": "Profit First - ",
                         "penulis": "Mike Michalowicz",
-                        "img": "/img/Profit.jpeg"
+                        "img": "/img/profitfirst.jpeg"
                     },
                     {
                         "judul": "The Millionaire Fastlane - ",
@@ -463,7 +463,7 @@
                     {
                         "judul": "The Total Money Makeover  - ",
                         "penulis": "Dave Ramsey",
-                        "img": "/img/Total Money.jpeg"
+                        "img": "/img/TheTotalMoneyMakeover.jpeg"
                     },
                     {
                         "judul": "The Simple Path to Wealth  - ",
@@ -604,7 +604,7 @@
                     {
                         "judul": "Traction",
                         "penulis": "Gabriel Weinberg dan Justin Mares",
-                        "img": "/img/Traction (1).jpeg"
+                        "img": "/img/Traction.jpeg"
                     },
                     {
                         "judul": "Content Inc.",
@@ -1442,7 +1442,7 @@
                 ],
                 "videoTitle": "The Rich Dad Channel",
                 "url": "https://www.youtube.com/embed/s9yFK8zLym8?si=KDyUeSXtFXJ4JU8B\"",
-                "linkVideo": "../video-yt/rich dad channel/OKRs and Peak Productivity Tips - Tom Wheelwright, Josh Seiden.mp4 ",
+                "linkVideo": "../video-yt/rich dad channel/OKRs and Peak Productivity Tips - Tom Wheelwright, Josh Seiden.mp4",
                 "": ""
             },
             {
@@ -4720,6 +4720,7 @@
                     "url": "https://www.youtube.com/embed/kAavbGnm8IA?si=O4-40m6Yu3Uic7H5\"",
                     "linkVideo": "../video-yt/Mudacumasekali/5 Ide Penghasilan Umur 20an.mp4"
                 }
+
         ]
     }
 
